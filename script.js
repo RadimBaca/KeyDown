@@ -1,4 +1,4 @@
-
+// uprava prvniho radku pro test
 
 const board = document.getElementById("game-board");
 const rows = 10;
